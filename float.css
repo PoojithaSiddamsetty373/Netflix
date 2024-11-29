@@ -1,0 +1,40 @@
+.courses{
+    width: 100%;
+    height: auto;
+    clear: both;
+    display: table;
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding: 50px,100px;
+   
+}
+.course{
+    width: 25%;
+    height: auto;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.features{
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: both;
+    background-color: blue;
+    color: white;
+    display: table;
+   
+   
+    margin: auto;
+
+    
+    
+}
+.feature{
+width: 25%;
+    height: auto;
+    float: left;
+    box-sizing: border-box;
+    padding: 20px;
+}    

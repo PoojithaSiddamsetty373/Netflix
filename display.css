@@ -1,0 +1,12 @@
+body{
+    padding: 0px;
+}
+p{
+    background-color: yellow;
+}
+p , span{
+    background-color: yellow;
+    width: 150;
+    height: 350;
+    display: inline-block;
+}
